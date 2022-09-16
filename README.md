@@ -1,6 +1,6 @@
 # PWA_Text_Editor
 _________________________________________________________
-*This was created to show my knowledge of PWAs and Data Persistant Tecniques ny creating an app called JATE that is a text editor*
+*This was created to show my knowledge of PWAs and Data Persistant Tecniques by creating an app called JATE that is a text editor*
 _________________________________________________________
 ## User Story
 * AS A developer, I WANT to create notes or code snippets with or without an internet connection, SO THAT I can reliably retrieve them for later use
